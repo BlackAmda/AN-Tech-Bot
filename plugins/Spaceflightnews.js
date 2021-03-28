@@ -17,7 +17,7 @@ Asena.addCommand({pattern: 'sfnews ?(.*)', fromMe: false, desc: Lang.NEWS_DESC},
 	try {
 		const response = await got(url);
 		const json = JSON.parse(response.body);
-		if (response.statusCode === 200) return await message.client.sendMessage(message.jid,'*📁 ' + "Spaceflight News" +'* \n\n\n' +
+	        return await message.client.sendMessage(message.jid,'*📁 ' + "Spaceflight News" +'* \n\n\n' +
 		'*🗞️ ' + "Title" +':* ```' + json.data[0].title + '```\n' + 
                 '*📰 ' + "Summary" +':* ```' + json.data[0].summary + '```\n' + 
 		'*🔗 ' + Lang.RMLINK +':* ```' + json.data[0].url + '```\n\n' +
