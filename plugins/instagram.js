@@ -83,10 +83,10 @@ Asena.addCommand({ pattern: 'hwrite ?(.*)', fromMe: false, dontAddCommandList: t
       .get(`https://wahyugans.herokuapp.com/api/nulis?kata=${userName}`)
       .then(async (response) => {
         const {
-          0,
+          [0],
         } = response.data.hasil
 
-        const profileBuffer = await axios.get(0, {responseType: 'arraybuffer'})
+        const profileBuffer = await axios.get([0], {responseType: 'arraybuffer'})
 
         const msg = `;)`
 
