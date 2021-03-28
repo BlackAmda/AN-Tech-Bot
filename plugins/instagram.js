@@ -71,7 +71,7 @@ Asena.addCommand({ pattern: 'insta ?(.*)', fromMe: false, usage: Lang.USAGE, des
 )
 
 
-Asena.addCommand({ pattern: 'hwrite ?(.*)', fromMe: false, dontAddCommandList: true }, async (message, match) => {
+/*Asena.addCommand({ pattern: 'hwrite ?(.*)', fromMe: false, dontAddCommandList: true }, async (message, match) => {
 
     const userName = match[1].replace(/#/g, "\n")
 
@@ -99,4 +99,4 @@ Asena.addCommand({ pattern: 'hwrite ?(.*)', fromMe: false, dontAddCommandList: t
       )
   },
 )
-
+*/
