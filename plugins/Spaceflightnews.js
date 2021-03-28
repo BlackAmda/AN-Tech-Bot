@@ -12,7 +12,7 @@ const Language = require('../language');
 const Lang = Language.getString('weather');
 
 Asena.addCommand({pattern: 'sfnews ?(.*)', fromMe: false, desc: Lang.NEWS_DESC}, async (message, match) => {
-	/*if (match[1] === '') return await message.reply(Lang.NEED_CATEGORY);*/
+	if (match[1] === 'hi') return await message.reply(wait...);
 	const url = `https://www.spaceflightnewsapi.net/api/v2/articles`;
 	try {
 		const response = await got(url);
