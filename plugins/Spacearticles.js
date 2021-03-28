@@ -11,7 +11,7 @@ const got = require('got');
 const Language = require('../language');
 const Lang = Language.getString('weather');
 
-Asena.addCommand({pattern: 'sarticles ?(.*)', fromMe: false, desc: "Gets you a list of Astronomy articles from ."}, async (message, match) => {
+Asena.addCommand({pattern: 'sarticles ?(.*)', fromMe: false, desc: "Gets you a list of Astronomy articles from the Planetary Society."}, async (message, match) => {
 	if (match[1] === 'where is it?') return await message.reply("wait...");
 	const url = `https://spaceflightnewsapi.net/api/v2/blogs`;
 	try {
