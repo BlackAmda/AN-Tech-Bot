@@ -14,6 +14,8 @@ const {Message, StringSession, Image, Video} = require('./whatsasena/');
 const { DataTypes } = require('sequelize');
 const { GreetingsDB, getMessage } = require("./plugins/sql/greetings");
 const got = require('got');
+const simpleGit = require('simple-git');
+const git = simpleGit();
 
 // Sql
 const WhatsAsenaDB = config.DATABASE.define('WhatsAsenaDuplicated', {
