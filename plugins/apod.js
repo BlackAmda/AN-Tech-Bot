@@ -33,7 +33,7 @@ Asena.addCommand({ pattern: 'apod ?(.*)', fromMe: false, desc: "Provides the Ast
         *${Explanation}*: ${explanation}`
 
         await message.sendMessage(Buffer.from(profileBuffer.data), MessageType.image, {
-          caption: msg, quoted: message.data
+          caption: msg
         })
       })
       .catch(
