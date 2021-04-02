@@ -13,8 +13,6 @@ const Lang = Language.getString('instagram') ;
 Asena.addCommand({ pattern: 'apod ?(.*)', fromMe: false, desc: "Provides the Astronomy Picture Of the Day from the NASA site." }, async (message, match) => {
 
 
-    await message.sendMessage(infoMessage(Lang.LOADING))
-
     await axios
       .get(`https://api.nasa.gov/planetary/apod?api_key=ccdRSkRerDoJHn2g36DGnJgyctfkGDml3ZzMWWxL`)
       .then(async (response) => {
