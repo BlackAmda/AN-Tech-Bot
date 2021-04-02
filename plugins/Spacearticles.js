@@ -17,7 +17,7 @@ Asena.addCommand({pattern: 'sarticles ?(.*)', fromMe: false, desc: "Gets you a l
 	try {
 		const response = await got(url);
 		const json = JSON.parse(response.body);
-	        return await message.client.sendMessage(message.jid,'*📁 ' + "Spaceflight News" +'* \n\n\n' +
+	        return await message.client.sendMessage(message.jid,'*📁 ' + "Space Articles" +'* \n\n\n' +
 		'*📑 ' + "Article" +':* ```' + json[0].title + '```\n' + 
                 '*📄 ' + "Synopsis" +':* ```' + json[0].summary + '```\n' + 
 		'*🔗 ' + Lang.RMLINK +':* ```' + json[0].url + '```\n\n' +
