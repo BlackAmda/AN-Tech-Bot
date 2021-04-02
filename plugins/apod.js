@@ -20,11 +20,11 @@ Asena.addCommand({ pattern: 'apod ?(.*)', fromMe: false, desc: "Provides the Ast
           copyright,
           date,
           explanation,
-          hdurl,
+          url,
           title,
-        } = response
+        } = response.data
 
-        const profileBuffer = await axios.get(hdurl, {responseType: 'arraybuffer'})
+        const profileBuffer = await axios.get(url, {responseType: 'arraybuffer'})
 
         const msg = `
         *${"Title"}*: ${title}
