@@ -22,7 +22,7 @@ Asena.addCommand({ pattern: 'apod ?(.*)', fromMe: false, desc: "Provides the Ast
           explanation,
           hdurl,
           title,
-        } = response.data
+        } = response
 
         const profileBuffer = await axios.get(hdurl, {responseType: 'arraybuffer'})
 
