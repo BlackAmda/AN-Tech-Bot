@@ -1,7 +1,7 @@
 {
     "name": "AN Tech Bot",
     "description": "Makes it easy and fun to use Whatsapp.",
-    "logo": "https://i.hizliresim.com/qc2qt3z.jpg",
+    "logo": "https://i.hizliresim.com/f8bleo5.png",
     "keywords": ["whatsapp", "userbot", "Asena"],
     "repository": "https://github.com/phaticusthiccy/WhatsAsenaDuplicated",
     "whatsapp_group":   "https://chat.whatsapp.com/CE768WDzDoR3j6g2NxrpFZ",
@@ -13,15 +13,15 @@
             "required": true
         },
         "SUDO": {
-            "description": "ඔබ එය භාවිතා කරන්නේ කෙසේදැයි නොදන්නේ නම් හිස්ව තබන්න! සුඩෝ මාදිලිය; ඔබගේ අංකය ජාත්‍යන්තර අංකයක් විය යුතුය. එබැවින් රටේ කේතයෙන් පසුව ඔබේ අංකය තිබිය යුතුය. උදාහරණය: 1205xxxxxxxx (USA අංකය +1)",
+            "description": "ඔබ එය භාවිතා කරන්නේ කෙසේදැයි නොදන්නේ නම් හිස්ව තබන්න! සුඩෝ මාදිලිය; ඔබගේ අංකය ජාත්‍යන්තර අංකයක් විය යුතුය. එබැවින් රටේ කේතයෙන් පසුව ඔබේ අංකය තිබිය යුතුය. උදාහරණය: 947xxxxxxxx (Sri lanka අංකය 94)",
             "required": false
         },
-        "LANGUAGE": {
+        "භාෂාව": {
             "description": "Bot භාෂාව.English භාෂාව සඳහ EN ලෙස සඳහන් කරන්න. (ඉදිරියේදී සිංහල භාෂාව ඔබට ලැබෙනු ඇත.)",
             "required": true,
             "value": "EN"
         },
-        "HANDLERS": {
+        "පාලක සලකුණ": {
             "description": "Bot ගේ ක්‍රියාකාරිත්වය සඳහා යෙදිය යුතු සලකුනු",
             "required": true,
             "value": "^[.!;]"
@@ -37,16 +37,16 @@
             "value": "true"
         },
         "HEROKU_API_KEY": {
-            "description": "Herokuda API Keyiniz. Heroku API Key.",
+            "description": "යම්කිසි රහස් වචනයක් මෙහි සඳහන් කරන්න. එය කා සමඟවත් බෙදානොගන්න.",
             "required": true
         },
-       "MUTE_MESSAGE": {
+       "Group එකක් mute කිරිමෙදි ලැබෙන පනිවිඩය": {
             "description": "Customizable Mute Message!",
             "required": false,
             "value": "default"
         },
          "BLOCK_CHAT": {
-            "description": "Choose in which chat the bot won't work there. Ex: 905xxxx && 905xxxx-1xxx or 905xxxx,905xxx...",
+            "description": "බොට් වැඩ නොකරන චැට් එක තෝරන්න. Ex: 947xxxxxxxx && 947xxxxxxxx හෝ 947xxxxxxxx,947xxxxxxxx",
             "required": false,
             "value": "false"
         },
@@ -56,45 +56,45 @@
             "value": "default"
         },
         "HEROKU_APP_NAME": {
-            "description": "Herokuda uygulama adı. Heroku APP Name.",
+            "description": "ඉහත යෙදු රහස් වචනයම යොදන්න.",
             "required": true
         },
         "DEBUG": {
-            "description": "Geliştiricilere özeldir.",
+            "description": "ඔබ මෙය නොදන්නේ නම්. එය අත්හරින්න.",
             "required": true,
             "value": "false"
         },
         "REMOVE_BG_API_KEY": {
-            "description": "Fotoğrafların arkaplanını kaldırır. https://remove.bg",
+            "description": "මෙහිදි ඔබ remove.bg යන website එකට පිවිස signup වී, API key එකක් ලබාගන්න. එම API key එක මෙම හිස්තැනේ දමන්න.",
             "required": false
         },
         "ALIVE_MESSAGE": {
-            "description": "Customizable Alive Message! Use => default, to change back.",
+            "description": "බොට් online ද නැද්ද යන්න පරීක්ෂා කරන විට ලැබෙන මැසේජ් එක. මෙය වෙනස් කිරිමට අත්‍යාවශ්‍යම නොවේ.",
             "required": false,
             "value": "default"
         },
         "AFK_MESSAGE": {
-            "description": "Customizable AFK Message! Use => default, to change back.",
+            "description": "වෙනස් කළ හැකි AFK පණිවිඩය! ආපසු වෙනස් කිරීමට => default භාවිතා කරන්න.",
             "required": false,
             "value": "default"
         },
         "GAN_IMAGE": {
             "description": "Gan Style eklentisi için resim bağlantısı yazın.",
             "required": true,
-            "value": "https://i.hizliresim.com/loUtAb.jpg"
+            "value": "https://i.hizliresim.com/f8bleo5.png"
         },
         "NO_ONLINE": {
-            "description": "Çevrimiçi görünmek istemiyorsanız true yazın.",
+            "description": "Bot online පෙනී සිටීමට අවශ්‍ය නැතිනම් true ටයිප් කරන්න.",
             "required": false,
             "value": "true"
         },
         "TOBZ_API_KEY": {
-            "description": "Generate your tobz apikey after chatting with +447418349954 in whatsapp.",
+            "description": "එය අත්හරින්න. අපි ඔබට මෙය ලබා දෙනවා.",
             "required": false,
             "value": "true"
         },
         "COFFEEHOUSE_API_KEY": {
-            "description": "CoffeeHouse API Key. Need for Lydia. https://coffeehouse.intellivoid.net/",
+            "description": "එය අත්හරින්න. අපි ඔබට මෙය ලබා දෙනවා.",
             "required": false,
             "value": "true"
         }
