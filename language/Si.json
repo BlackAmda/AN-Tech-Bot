@@ -1,21 +1,21 @@
 {
     "__ASENAJSON__": true,
-    "LANGUAGE": "Türkcə",
-    "LANGCODE": "Tr",
+    "LANGUAGE": "Sinhala",
+    "LANGCODE": "Si",
     "AUTHOR": "AsenaDev",
     "STRINGS": {
         "_asena": {
-            "COMMAND": "Əmr",
-            "DESC": "Açığlama",
-            "EXAMPLE": "Nümunə",
-            "NOT_FOUND": "*Belə bir əmr tapa bilmədim*",
-            "WARN": "Xəbərdarlıq"
+            "COMMAND": "විධානය",
+            "DESC": "විස්තර",
+            "EXAMPLE": "උදාහරණයක් :",
+            "NOT_FOUND": "*මට එවැනි command සොයාගත නොහැකි විය*",
+            "WARN": "අවවාදයයි!"
         },
         "_plugin": {
-            "INSTALL_DESC": "Plugin quraşdırır.",
-            "NEED_URL": "Zəhmət olmasa bir URL daxil edin! Nümunə:",
-            "INVALID_URL": "```Xahiş edirəm etibarlı bir URL daxil edin!```",
-            "INVALID_PLUGIN": "*❌ Plagininiz səhvdir!*\n*Xeta:*",
+            "INSTALL_DESC": "Plugin ස්ථාපනය කරන්න.",
+            "NEED_URL": "කරුණාකර URL එකක් ඇතුළත් කරන්න! උදාහරණයක්:",
+            "INVALID_URL": "```වලංගු URL එක ඇතුලත් කරන්න!```",
+            "INVALID_PLUGIN": "*❌ ඔබේ Plugin වැරදියි!*\n*Xeta:*",
             "INSTALLED": "*✅ Plugin uğurla quraşdırıldı!*",
             "PLUGIN_DESC": "Qurduğunuz plaginləri göstərir.",
             "INSTALLED_FROM_REMOTE": "*Xaricdən qurduğunuz plaginlər:*\n",
