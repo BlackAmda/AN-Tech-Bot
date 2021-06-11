@@ -1,3 +1,20 @@
+<div align="center">
+  <img src="https://i.hizliresim.com/qc2qt3z.jpg" width="480" height="360">
+  <h1>🐺AN TECH BOT🐺</h1>
+</div>
+<p align="center">
+    Makes it easy and fun to use Whatsapp. Also first userbot for Whatsapp
+    <br>
+        Reserved |
+        Reserved |
+        <a href="https://chat.whatsapp.com/CE768WDzDoR3j6g2NxrpFZ">Whatsapp Group</a> |
+        <a href="https://www.youtube.com/channel/UCZx8U1EU95-Wn9mH4dn15vQ">Youtube Channel</a>
+    <br>
+</p>
+
+----
+![Docker Pulls](https://img.shields.io/docker/pulls/fusuf/whatsasena?style=flat-square) ![Docker Image Size (latest by date)](https://img.shields.io/docker/image-size/fusuf/whatsasena?style=flat-square)
+
 
 
 <p align="center">
@@ -48,22 +65,6 @@ for the work done with the programs that are installed later, WhatsAsena
 is not responsible for the usage purpose and method of the users.
 ```
 
-<div align="center">
-  <img src="https://i.hizliresim.com/qc2qt3z.jpg" width="480" height="360">
-  <h1>🐺AN TECH BOT🐺</h1>
-</div>
-<p align="center">
-    Makes it easy and fun to use Whatsapp. Also first userbot for Whatsapp
-    <br>
-        Reserved |
-        Reserved |
-        <a href="https://chat.whatsapp.com/CE768WDzDoR3j6g2NxrpFZ">Whatsapp Group</a> |
-        <a href="https://www.youtube.com/channel/UCZx8U1EU95-Wn9mH4dn15vQ">Youtube Channel</a>
-    <br>
-</p>
-
-----
-![Docker Pulls](https://img.shields.io/docker/pulls/fusuf/whatsasena?style=flat-square) ![Docker Image Size (latest by date)](https://img.shields.io/docker/image-size/fusuf/whatsasena?style=flat-square)
 
 ## 📢 Guide
 > [New support & help group.](https://chat.whatsapp.com/CE768WDzDoR3j6g2NxrpFZ) (New)
