@@ -137,8 +137,8 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp... Please wait.')}`);
         );
         await new Promise(r => setTimeout(r, 1100));
 
-        if (config.LANG == 'TR' || config.LANG == 'AZ') {
-            await conn.sendMessage(conn.user.jid, '*WhatsAsena Çalışıyor! 🐺*\n\n_Lütfen burada plugin denemesi yapmayın. Burası sizin LOG numaranızdır._\n_Herhangi bir sohbette komutları deneyebilirsiniz :)_\n\n*WhatsAsena Kullandığın İçin Teşekkürler 💌*', MessageType.text);
+        if (config.LANG == 'SI' || config.LANG == 'Sin') {
+            await conn.sendMessage(conn.user.jid, '*AN Tech Bot! 🐺*\n\n_කරුණාකර මෙහි commands නොකරන්න. මෙය ඔබගේ ලොග් අංකයයි._\n_ඔබට ඕනෑම චැට් එකක commands උත්සාහ කළ හැකිය :)_\n\n*AN Tech Bot භාවිතා කිරීම ගැන ස්තූතියි 💌*', MessageType.text);
         }
         else {
             await conn.sendMessage(conn.user.jid, '*WhatsAsena Working! 🐺*\n\n_Please do not try plugins here. This is your LOG number._\n_You can try commands to any chat :)_\n\n*Thanks for using WhatsAsena 💌*', MessageType.text);
@@ -181,7 +181,7 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp... Please wait.')}`);
                 } else if (msg.message) {
                     var text_msg = msg.message.extendedTextMessage === null ? msg.message.conversation : msg.message.extendedTextMessage.text;
                 } else {
-                    var text_msg = undefined;
+                    var text_msg = සමාවන්න! හඳුනාගත නොහැක.;
                 }
 
                 if ((command.on !== undefined && (command.on === 'image' || command.on === 'photo')
@@ -231,13 +231,13 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp... Please wait.')}`);
                         try {
                             await command.function(whats, match);
                         } catch (error) {
-                            if (config.LANG == 'TR' || config.LANG == 'AZ') {
-                                await conn.sendMessage(conn.user.jid, '*-- HATA RAPORU [WHATSASENA] --*' + 
-                                    '\n*WhatsAsena bir hata gerçekleşti!*'+
-                                    '\n_Bu hata logunda numaranız veya karşı bir tarafın numarası olabilir. Lütfen buna dikkat edin!_' +
-                                    '\n_Yardım için Telegram grubumuza yazabilirsiniz._' +
-                                    '\n_Bu mesaj sizin numaranıza (kaydedilen mesajlar) gitmiş olmalıdır._\n\n' +
-                                    '*Gerçekleşen Hata:* ```' + error + '```\n\n'
+                            if (config.LANG == 'Si' || config.LANG == 'Sin') {
+                                await conn.sendMessage(conn.user.jid, '*-- දෝෂ වාර්තාව [AN Tech Bot] --*' + 
+                                    '\n*AN Tech දෝෂයක් සිදුවී ඇත!*'+
+                                    '\n_මෙම දෝෂ ලොගයෙහි ඔබගේ අංකය හෝ ප්‍රති පාර්ශ්වයේ අංකය අඩංගු විය හැකිය. කරුණාකර එය සමග සැලකිලිමත් වන්න!_' +
+                                    '\n_උදව් සඳහා ඔබට අපගේ whatsapp අංකයට ලිවිය හැකිය. https://wa.me/94757405652_' +
+                                    '\n_මෙම පණිවිඩය ඔබගේ අංකයට තිබිය යුතුය._\n\n' +
+                                    '*සිදුවූ දෝෂය:* ```' + error + '```\n\n'
                                     , MessageType.text);
                             } else {
                                 await conn.sendMessage(conn.user.jid, '*-- ERROR REPORT [WHATSASENA] --*' + 
