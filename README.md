@@ -50,19 +50,55 @@
   </a>
 </p>
 
-```
-Based On:
-Asena; Asena UserBot,
+## AN tech bot Features
 
-WhatsAsena - Asena Userbot is Open Source software open to development. 
-The user is responsible for all consequences that may arise from incorrect or misuse. 
-Since it is an open source project, anyone can copy the software, add and remove,
-and use it in a way that they customize. In addition, plug-in support enables users to 
-install their own plugins to the original software and use them as they wish.
-Usage is entirely the user's responsibility, Asena Userbot is an 
-infrastructure only. Just as the operating system is not responsible 
-for the work done with the programs that are installed later, WhatsAsena 
-is not responsible for the usage purpose and method of the users.
+| All Features 📢|Available ☑️|Version 🔎|
+| ------------- | ------------ | ---------- |
+| Admin Commands|✅|1.0|
+| AFK|✅|1.2|
+| AI Scanner|✅|1.1|
+| Add & Kick User|✅|1.0|
+| Ban & Unban User|✅|1.0|
+| Carbon.sh Plugin|✅|1.4|
+| Depp AI APIs|✅|1.0|
+| FFMPEG Support|✅|1.6|
+| Filter Support|✅|1.2|
+| Greetings Support|✅|1.2|
+| Group Link Generator|✅|1.0|
+| Heroku Plugin|✅|1.5|
+| Jid Scraper|✅|1.0|
+| Location Plugin|✅|1.0|
+| Lydia|✅|1.2|
+| Meme Maker|✅|1.0|
+| Mute & Unmute Chat|✅|1.3|
+| Nekobin Plugin|✅|1.0|
+| OCR Plugin|✅|1.2|
+| Plugin Support|✅|1.0|
+| Pre-Trained Effects|✅|3.2|
+| Promote & Demote User|✅|1.1|
+| Remove BG Plugin|✅|1.0|
+| Scam Actions|✅|1.3|
+| Scrapers|✅|1.5|
+| Spammer|✅|1.4|
+| Speedtest|🛠️|1.6|
+| Sticker Maker|✅|1.0|
+| Tagall|✅|1.0|
+| Unvoice|✅|1.3|
+
+
+```
+පදනම:
+අසෙන; අසෙනා පරිශීලක බොට්,
+
+WhatsAsena - Asena Userbot යනු සංවර්ධනය සඳහා විවෘත මෘදුකාංගයකි.
+වැරදි හෝ අනිසි ලෙස භාවිතා කිරීමෙන් ඇතිවිය හැකි සියලු ප්‍රතිවිපාක සඳහා පරිශීලකයා වගකිව යුතුය.
+එය විවෘත මූලාශ්‍ර ව්‍යාපෘතියක් බැවින් ඕනෑම කෙනෙකුට මෘදුකාංගය පිටපත් කිරීමට, එකතු කිරීමට සහ ඉවත් කිරීමට හැකිය,
+ඔවුන් අභිරුචිකරණය කරන ආකාරයට එය භාවිතා කරන්න. ඊට අමතරව, ප්ලග්-ඉන් සහාය පරිශීලකයින්ට සක්‍රීය කරයි
+මුල් මෘදුකාංගයට ඔවුන්ගේම ප්ලගීන ස්ථාපනය කර ඔවුන් කැමති පරිදි භාවිතා කරන්න.
+භාවිතය මුළුමනින්ම පරිශීලකයාගේ වගකීම වන අතර, අසෙනා පරිශීලක බොට් යනු අ
+යටිතල පහසුකම් පමණි. මෙහෙයුම් පද්ධතිය වගකිව යුතු නොවේ
+පසුව ස්ථාපනය කර ඇති වැඩසටහන් සමඟ කරන ලද වැඩ සඳහා, WhatsAsena
+භාවිතා කරන්නන්ගේ භාවිත අරමුණු සහ ක්‍රමයට වගකිව යුතු නොවේ.
 ```
 
 
@@ -108,43 +144,6 @@ If you are concerned about security, you can install it on your own computer. If
 
 ### Is it paid?
 **Of course not.** It will never happen. But you can donate to us. You can reach me via [Telegram](https://t.me/fusuf) .
-
-
-## AN tech bot Features
-
-| All Features 📢|Available ☑️|Version 🔎|
-| ------------- | ------------ | ---------- |
-| Admin Commands|✅|1.0|
-| AFK|✅|1.2|
-| AI Scanner|✅|1.1|
-| Add & Kick User|✅|1.0|
-| Ban & Unban User|✅|1.0|
-| Carbon.sh Plugin|✅|1.4|
-| Depp AI APIs|✅|1.0|
-| FFMPEG Support|✅|1.6|
-| Filter Support|✅|1.2|
-| Greetings Support|✅|1.2|
-| Group Link Generator|✅|1.0|
-| Heroku Plugin|✅|1.5|
-| Jid Scraper|✅|1.0|
-| Location Plugin|✅|1.0|
-| Lydia|✅|1.2|
-| Meme Maker|✅|1.0|
-| Mute & Unmute Chat|✅|1.3|
-| Nekobin Plugin|✅|1.0|
-| OCR Plugin|✅|1.2|
-| Plugin Support|✅|1.0|
-| Pre-Trained Effects|✅|3.2|
-| Promote & Demote User|✅|1.1|
-| Remove BG Plugin|✅|1.0|
-| Scam Actions|✅|1.3|
-| Scrapers|✅|1.5|
-| Spammer|✅|1.4|
-| Speedtest|🛠️|1.6|
-| Sticker Maker|✅|1.0|
-| Tagall|✅|1.0|
-| Unvoice|✅|1.3|
-
 
 Here Are All Commands With Description [GistHub](https://gist.github.com/BlackAmda/28493a9b3e4f6f7ade7774a68b7c1c05)
 
