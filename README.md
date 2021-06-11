@@ -72,7 +72,7 @@ is not responsible for the usage purpose and method of the users.
 > [Install Guide](https://github.com/phaticusthiccy/WhatsAsenaDuplicated/wiki/%F0%9F%87%AC%F0%9F%87%A7-How-to-Setup-WhatsAsena)
 
 ## 🔎 What is AN Tech Bot?
-**WhatsAsena,** is a WhatsApp helper bot.
+**AN Tech Bot,** is a WhatsApp helper bot.
 
 ## Setup
 ### Very Simple Method
