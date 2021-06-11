@@ -1,34 +1,22 @@
-## Thanks for Everything 
-### We will always remember you..
 
-- [Yusuf Usta](https://github.com/yusufusta)
-- [@fusufs](https://t.me/fusufs)
-- [@phaticusthiccy](https://github.com/phaticusthiccy)
 
 <p align="center">
-  <a href="https://github.com/phaticusthiccy/WhatsAsenaDuplicated/fork">
-    <img src="https://img.shields.io/github/forks/phaticusthiccy/WhatsAsenaDuplicated?label=Fork&style=social">
+  <a href="https://github.com/BlackAmda/AN-Tech-Bot/fork">
+    <img src="https://img.shields.io/github/forks/BlackAmda/AN-Tech-Bot?label=Fork&style=social">
     
   </a>
-  <a href="https://github.com/phaticusthiccy/WhatsAsenaDuplicated/stargazers">
-    <img src="https://img.shields.io/github/stars/phaticusthiccy/WhatsAsenaDuplicated?style=social">
-  </a>
-  <a href="https://github.com/phaticusthiccy/WhatsAsenaDuplicated/commits/master">
-    <img src="https://img.shields.io/github/commit-activity/m/phaticusthiccy/WhatsAsenaDuplicated?style=social">
+  <a href="https://github.com/BlackAmda/AN-Tech-Bot/stargazers">
+    <img src="https://img.shields.io/github/stars/BlackAmda/AN-Tech-Bot?style=social">
   </a>
 </p>
 
 <p align="center">
-  <a href="httsp://github.com/phaticusthiccy/WhatsAsenaDuplicated">
+  <a href="httsp://github.com/BlackAmda/AN-Tech-Bot">
     <img src="https://img.shields.io/github/repo-size/phaticusthiccy/WhatsAsenaDuplicated?color=purple&label=Repo%20Boyutu&style=plastic">
 
   </a>
-  <a href="httsp://github.com/phaticusthiccy/WhatsAsenaDuplicated">
-    <img src="https://img.shields.io/codefactor/grade/github/phaticusthiccy/WhatsAsenaDuplicated?color=purple&label=Kod%20Kalitesi&style=plastic">
-
-  </a>
   <a href="https://github.com/phaticusthiccy/WhatsAsenaDuplicated/blob/master/LICENSE">
-    <img src="https://img.shields.io/github/license/phaticusthiccy/WhatsAsenaDuplicated?color=purple&label=Lisans&style=plastic">
+    <img src="https://img.shields.io/github/license/phaticusthiccy/WhatsAsenaDuplicated?color=purple&label=License&style=plastic">
 
   </a>
   <a href="https://github.com/phaticusthiccy/WhatsAsenaDuplicated">
@@ -36,11 +24,11 @@
 
   </a>
   <a href="https://github.com/phaticusthiccy">
-    <img src="https://img.shields.io/static/v1?label=Author&message=Thiccy&color=purple&style=plastic">
+    <img src="https://img.shields.io/static/v1?label=Author&message=Black%20Amda&color=purple&style=plastic">
 
   </a>
-  <a href="https://t.me/asenaremaster">
-    <img src="https://img.shields.io/badge/Telegram-Asena%20Remaster-purple&style=plastic">
+  <a href="wa.me/94757405652">
+    <img src="https://img.shields.io/badge/Contact%20Me%20On%20Whatsapp-AN%20Tech%20Bot-purple&style=plastic">
 
   </a>
 </p>
@@ -61,18 +49,16 @@ is not responsible for the usage purpose and method of the users.
 ```
 
 <div align="center">
-  <img src="https://i.hizliresim.com/mm1NBs.jpg" width="200" height="200">
-  <h1>A modified Version of 🐺 WhatsAsena Duplicated</h1>
+  <img src="https://i.hizliresim.com/qc2qt3z.jpg" width="480" height="360">
+  <h1>🐺AN TECH BOT🐺</h1>
 </div>
 <p align="center">
-    WhatsAsena project - Makes it easy and fun to use Whatsapp. Also first userbot for Whatsapp
+    Makes it easy and fun to use Whatsapp. Also first userbot for Whatsapp
     <br>
         Reserved |
         Reserved |
-        <a href="https://t.me/WHATSASENA">Telegram Channel</a> |
-        <a href="https://t.me/AsenaSupport">Telegram Group</a> |
-        <a href="https://t.me/asenaremaster">New Support Group</a> |
-        <a href="https://t.me/unofficialplugin">New Plugin Channel</a> |
+        <a href="https://chat.whatsapp.com/CE768WDzDoR3j6g2NxrpFZ">Whatsapp Group</a> |
+        <a href="https://www.youtube.com/channel/UCZx8U1EU95-Wn9mH4dn15vQ">Youtube Channel</a>
     <br>
 </p>
 
@@ -80,14 +66,12 @@ is not responsible for the usage purpose and method of the users.
 ![Docker Pulls](https://img.shields.io/docker/pulls/fusuf/whatsasena?style=flat-square) ![Docker Image Size (latest by date)](https://img.shields.io/docker/image-size/fusuf/whatsasena?style=flat-square)
 
 ## 📢 Guide
-> [Also for support & help please come our Telegram group.](https://t.me/AsenaSupport) (Legacy)
+> [New support & help group.](https://chat.whatsapp.com/CE768WDzDoR3j6g2NxrpFZ) (New)
 
-> [New support & help group.](https://t.me/asenaremaster) (New)
+> [Install Guide](https://github.com/phaticusthiccy/WhatsAsenaDuplicated/wiki/%F0%9F%87%AC%F0%9F%87%A7-How-to-Setup-WhatsAsena)
 
-> [Install Guide/Kurulum Yardımcısı/Qurulum Müavin](https://github.com/phaticusthiccy/WhatsAsenaDuplicated/wiki)
-
-## 🔎 What is WhatsAsena?
-**WhatsAsena,** is a WhatsApp helper bot written by [Yusuf Usta](https://github.com/Quiec) and edited by [Phaticusthiccy](https://github.com/phaticusthiccy). Does not log into your account It is written on WhatsApp Web API.
+## 🔎 What is AN Tech Bot?
+**WhatsAsena,** is a WhatsApp helper bot.
 
 ## Setup
 ### Very Simple Method
@@ -103,11 +87,10 @@ Repl.it is less stable. Try Termux instead for qrcode generation.
 
 ### The Hard Method(Not Supported for this version!!)
 ```js
-$ git clone https://github.com/phaticusthiccy/WhatsAsenaDuplicated.git
-$ cd WhatsAsenaDuplicated
+$ git clone https://github.com/BlackAmda/AN-Tech-Bot
+$ cd AN-Tech-Bot
 $ npm i
 $ nano Config.env
-// Config.env oluşturun ve düzenleyin.
 // Config.env create and edit.
 $ node bot.js
 ```
@@ -125,10 +108,8 @@ If you are concerned about security, you can install it on your own computer. If
 ### Is it paid?
 **Of course not.** It will never happen. But you can donate to us. You can reach me via [Telegram](https://t.me/fusuf) .
 
-### What does Asena mean?
-[Asena](https://tr.wikipedia.org/wiki/Asena), comes from Turkish mythology. According to Turkish mythology, Asena is a she-wolf that plays an important role.
 
-## WhatsAsena Features
+## AN tech bot Features
 
 | All Features 📢|Available ☑️|Version 🔎|
 | ------------- | ------------ | ---------- |
@@ -164,9 +145,14 @@ If you are concerned about security, you can install it on your own computer. If
 | Unvoice|✅|1.3|
 
 
-Here Are All Commands With Description
-----|
-[GistHub](https://gist.github.com/phaticusthiccy/8dfa827a71647e5f659680d75543a748) |
+Here Are All Commands With Description [GistHub](https://gist.github.com/BlackAmda/28493a9b3e4f6f7ade7774a68b7c1c05)
+
+## Thanks for Everything 
+### We will always remember you..
+
+- [Yusuf Usta](https://github.com/yusufusta)
+- [@fusufs](https://t.me/fusufs)
+- [@phaticusthiccy](https://github.com/phaticusthiccy)
 
 ### ⚠️ Warning! 
 ```
@@ -184,6 +170,7 @@ By establishing the Asena, you are deemed to have accepted these responsibilitie
 Author, Base, Bug Fixes, Modules | Author, Base, Bug Fixes, Modules | Bug Fixes, Modules, Idea | Modules, Idea | Modules
 
 ## Thanks To
+- [@BlackAmda](https://github.com/BlackAmda) :)
 - [@adiwajshing](https://github.com/adiwajshing) for coded [Baileys](https://github.com/adiwajshing/Baileys) 
 - [@itacirgabral](https://github.com/itacirgabral) for helps
 - `Ikarus#7808 (Discord)` for helps
