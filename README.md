@@ -44,7 +44,7 @@
     <img src="https://img.shields.io/static/v1?label=Author&message=Black%20Amda&color=purple&style=plastic">
 
   </a>
-  <a href="wa.me/94757405652">
+  <a href="https://wa.me/94757405652">
     <img src="https://img.shields.io/badge/Contact%20Me%20On%20Whatsapp-AN%20Tech%20Bot-purple&style=plastic">
 
   </a>
