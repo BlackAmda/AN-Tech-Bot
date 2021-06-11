@@ -1,38 +1,38 @@
 {
-    "name": "WhatsAsenaDuplicated",
-    "description": "WhatsAsena project - Makes it easy and fun to use Whatsapp.",
-    "logo": "https://i.hizliresim.com/6Bbj7i.jpg",
+    "name": "AN Tech Bot",
+    "description": "Makes it easy and fun to use Whatsapp.",
+    "logo": "https://i.hizliresim.com/qc2qt3z.jpg",
     "keywords": ["whatsapp", "userbot", "Asena"],
     "repository": "https://github.com/phaticusthiccy/WhatsAsenaDuplicated",
-    "website":   "https://t.me/phaticusthiccy",
-    "success_url": "https://t.me/AsenaSupport",
+    "whatsapp_group":   "https://chat.whatsapp.com/CE768WDzDoR3j6g2NxrpFZ",
+    "success_url": "https://chat.whatsapp.com/CE768WDzDoR3j6g2NxrpFZ",
     "stack": "container",
     "env": {
         "ASENA_SESSION": {
-            "description": "Qr.Js ile oluşturduğunuz özel session kodu.",
+            "description": "Qr කේතය scan කළ පසුව ලැබෙන කේතයන්",
             "required": true
         },
         "SUDO": {
-            "description": "Leave blank if you don't know how to use it! Sudo mode; Your number must be an international number. So you should have your number after the country code. Example: 1205xxxxxxxxx (USA number +1)",
+            +"description": "ඔබ එය භාවිතා කරන්නේ කෙසේදැයි නොදන්නේ නම් හිස්ව තබන්න! සුඩෝ මාදිලිය; ඔබගේ අංකය ජාත්‍යන්තර අංකයක් විය යුතුය. එබැවින් රටේ කේතයෙන් පසුව ඔබේ අංකය තිබිය යුතුය. උදාහරණය: 1205xxxxxxxx (USA අංකය +1)",
             "required": false
         },
         "LANGUAGE": {
-            "description": "Bot language. Azerice => az, English => en, Türkçe => tr, Malayalam => ml, Hindi => HI, Indonesia => IN, Español => ES",
+            "description": "Bot භාෂාව.English භාෂාව සඳහ EN ලෙස සඳහන් කරන්න. (ඉදිරියේදී සිංහල භාෂාව ඔබට ලැබෙනු ඇත.)",
             "required": true,
-            "value": "TR"
+            "value": "EN"
         },
         "HANDLERS": {
-            "description": "Komutlar için.",
+            "description": "Bot ගේ ක්‍රියාකාරිත්වය සඳහා යෙදිය යුතු සලකුනු",
             "required": true,
             "value": "^[.!;]"
         },
         "SEND_READ": {
-            "description": "Görüldü atmak istiyorsanız true yazın.",
+            "description": "Bot message seen කළාද නැතිද යන්න පරිශීලකට පෙන්විය යුතුද?",
             "required": true,
             "value": "true"
         },
         "HEROKU": {
-            "description": "Herokuda çalışıyorsa true yazın.",
+            "description": "Heroku",
             "required": true,
             "value": "true"
         },
