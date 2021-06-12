@@ -181,7 +181,7 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp... Please wait.')}`);
                 } else if (msg.message) {
                     var text_msg = msg.message.extendedTextMessage === null ? msg.message.conversation : msg.message.extendedTextMessage.text;
                 } else {
-                    var text_msg = "සමාවන්න!හඳුනාගත නොහැක.";
+                    var text_msg = undefined;
                 }
 
                 if ((command.on !== undefined && (command.on === 'image' || command.on === 'photo')
