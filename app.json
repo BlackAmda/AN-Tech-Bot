@@ -16,12 +16,12 @@
             "description": "ඔබ එය භාවිතා කරන්නේ කෙසේදැයි නොදන්නේ නම් හිස්ව තබන්න! සුඩෝ මාදිලිය; ඔබගේ අංකය ජාත්‍යන්තර අංකයක් විය යුතුය. එබැවින් රටේ කේතයෙන් පසුව ඔබේ අංකය තිබිය යුතුය. උදාහරණය: 947xxxxxxxx (Sri lanka අංකය 94)",
             "required": false
         },
-        "භාෂාව": {
+        "LANGUAGE": {
             "description": "Bot භාෂාව.English භාෂාව සඳහ EN ලෙස සඳහන් කරන්න. (ඉදිරියේදී සිංහල භාෂාව ඔබට ලැබෙනු ඇත.)",
             "required": true,
             "value": "EN"
         },
-        "පාලක සලකුණ": {
+        "HANDLERS": {
             "description": "Bot ගේ ක්‍රියාකාරිත්වය සඳහා යෙදිය යුතු සලකුනු",
             "required": true,
             "value": "^[.!;]"
@@ -40,8 +40,8 @@
             "description": "යම්කිසි රහස් වචනයක් මෙහි සඳහන් කරන්න. එය කා සමඟවත් බෙදානොගන්න.",
             "required": true
         },
-       "Group එකක් mute කිරිමෙදි ලැබෙන පනිවිඩය": {
-            "description": "Customizable Mute Message!",
+       "MUTE_MESSAGE": {
+            "description": "Group එකක් mute කිරිමෙදි ලැබෙන පනිවිඩය.",
             "required": false,
             "value": "default"
         },
