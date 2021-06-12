@@ -141,7 +141,7 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp... Please wait.')}`);
             await conn.sendMessage(conn.user.jid, '*AN Tech Bot! 🐺*\n\n_කරුණාකර මෙහි commands නොකරන්න. මෙය ඔබගේ ලොග් අංකයයි._\n_ඔබට ඕනෑම චැට් එකක commands උත්සාහ කළ හැකිය :)_\n\n*AN Tech Bot භාවිතා කිරීම ගැන ස්තූතියි 💌*', MessageType.text);
         }
         else {
-            await conn.sendMessage(conn.user.jid, '*WhatsAsena Working! 🐺*\n\n_Please do not try plugins here. This is your LOG number._\n_You can try commands to any chat :)_\n\n*Thanks for using WhatsAsena 💌*', MessageType.text);
+            await conn.sendMessage(conn.user.jid, '*AN Tech Bot Working! 🐺*\n\n_Please do not try plugins here. This is your LOG number._\n_You can try commands to any chat :)_\n\n*Thanks for using WhatsAsena 💌*', MessageType.text);
         }
     });
     
