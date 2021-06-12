@@ -50,9 +50,9 @@
             "L_WARN": "İstifadə etməzdən əvvəl yerinizi açın!"
         },
         "afk": {
-            "AFK_DESC": "Sizi AFK edər.",
-            "IM_AFK": "*Artığ AFK’yam!*",
-            "IM_AFK_NOMD": "Artığ AFK’yam!",
+            "AFK_DESC": "AFK බව සාදයි.",
+            "IM_AFK": "*මම දැන් AFK!*",
+            "IM_AFK_NOMD": "මම දැන් AFK!",
             "REASON": "Səbəb",
             "LAST_SEEN": "Son görülmə",
             "IM_NOT_AFK": "```Artığ AFK deyiləm!```",
@@ -148,9 +148,9 @@
             "DISABLED": "```Lydia bu istifadəçi üçün deaktiv edilmişdir!``"
         },
         "memes": {
-            "MEMES_DESC": "Yanıt verdiğiniz fotoğrafa yazdığınız yazıyı ekler.",
-            "NEED_REPLY": "*Bir fotoğraf veya videoya yanıt verin!*",
-            "DOWNLOADING": "```Medya indiriliyor & meme yapılıyor...```"
+            "MEMES_DESC": "ඔබ පිළිතුරු දුන් ඡායාරූපයට ඔබ ලියූ පෙළ එක් කරයි.",
+            "NEED_REPLY": "*ඡායාරූපයකට හෝ වීඩියෝවකට පිළිතුරු දෙන්න!*",
+            "DOWNLOADING": "```මාධ්‍ය බාගත කිරීම සහ memes සෑදීම ...```"
         },
         "removebg": {
             "REMOVEBG_DESC": "Şəklin arxa-planını silər.",
