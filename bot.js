@@ -138,10 +138,10 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp... Please wait.')}`);
         await new Promise(r => setTimeout(r, 1100));
 
         if (config.LANG == 'SI' || config.LANG == 'TR') {
-            await conn.sendMessage(conn.user.jid, '*AN Tech Bot! 🐺*\n\n_කරුණාකර මෙහි commands නොකරන්න. මෙය ඔබගේ ලොග් අංකයයි._\n_ඔබට ඕනෑම චැට් එකක commands උත්සාහ කළ හැකිය :)_\n\n*AN Tech Bot භාවිතා කිරීම ගැන ස්තූතියි 💌*', MessageType.text);
+            await conn.sendMessage(conn.user.jid, '*zonick Bot! 🐺*\n\n_කරුණාකර මෙහි commands නොකරන්න. මෙය ඔබගේ ලොග් අංකයයි._\n_ඔබට ඕනෑම චැට් එකක commands උත්සාහ කළ හැකිය :)_\n\n*AN Tech Bot භාවිතා කිරීම ගැන ස්තූතියි 💌*', MessageType.text);
         }
         else {
-            await conn.sendMessage(conn.user.jid, '*AN Tech Bot Working! 🐺*\n\n_Please do not try plugins here. This is your LOG number._\n_You can try commands to any chat :)_\n\n*Thanks for using WhatsAsena 💌*', MessageType.text);
+            await conn.sendMessage(conn.user.jid, '*zonick Bot Working! 🐺*\n\n_Please do not try plugins here. This is your LOG number._\n_You can try commands to any chat :)_\n\n*Thanks for using WhatsAsena 💌*', MessageType.text);
         }
     });
     
@@ -232,7 +232,7 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp... Please wait.')}`);
                             await command.function(whats, match);
                         } catch (error) {
                             if (config.LANG == 'SI' || config.LANG == 'TR') {
-                                await conn.sendMessage(conn.user.jid, '*-- දෝෂ වාර්තාව [AN Tech Bot] --*' + 
+                                await conn.sendMessage(conn.user.jid, '*-- දෝෂ වාර්තාව [zonick Bot] --*' + 
                                     '\n*AN Tech දෝෂයක් සිදුවී ඇත!*'+
                                     '\n_මෙම දෝෂ ලොගයෙහි ඔබගේ අංකය හෝ ප්‍රති පාර්ශ්වයේ අංකය අඩංගු විය හැකිය. කරුණාකර එය සමග සැලකිලිමත් වන්න!_' +
                                     '\n_උදව් සඳහා ඔබට අපගේ whatsapp අංකයට ලිවිය හැකිය. https://wa.me/94757405652_' +
